@@ -1,8 +1,8 @@
 # Docker images
 # A set of Docker images for various purposes.
-# Github://github.com/lewisevans2007/docker_images
+# Github://github.com/0x4248/docker_images
 # Licence: GNU General Public License v3.0
-# By: Lewis Evans
+# By: 0x4248
 
 DOCKER = docker
 SRC = docker
